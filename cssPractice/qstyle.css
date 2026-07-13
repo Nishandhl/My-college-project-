@@ -1,0 +1,29 @@
+/* Question 1 */
+ .navbar{
+    background-color:pink;
+     display: flex;
+    justify-content: space-evenly; 
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+li{
+    list-style-type: none;
+  
+} 
+
+/* <!-- Q2. Use flexbox to center one div to inside another div. --> */
+.outer{
+    background-color: brown;
+    height:400px;
+    width:400px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.inner{
+    background-color: bisque;
+     height:100px;
+     width:100px;
+}

@@ -1,0 +1,16 @@
+div{
+    height:100px;
+    width:100px;
+    border:2px solid black;
+    background-color: aqua;
+    display:inline-block;
+
+}
+body{
+    background-image: url("Suzuki jimny.jpg");
+    background-size:cover;
+} 
+#box1{
+    background-image: url("Suzuki jimny.jpg");
+    background-size:cover;
+} 
